@@ -1,5 +1,4 @@
 .idea/
-
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -15,7 +14,6 @@ target/
 .springBeans
 .sts4-cache
 
-
 ### IntelliJ IDEA ###
 .idea
 *.iws
@@ -27,10 +25,18 @@ target/
 /nbbuild/
 /dist/
 /nbdist/
-/.nb-gradle/
+/nb-gradle/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
 ### VS Code ###
 .vscode/
+
+# --- Streak commits below ---
+# Commit 1 by Musku Lavan Reddy
+# Commit 2 keep streak alive
+# Commit 3 playful signature
+# Commit 4 streak marker
+# Commit 5 tiny harmless update
+# Commit 6 streak maintained today
