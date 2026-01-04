@@ -5,6 +5,7 @@ import jakarta.persistence.*;
 @Entity
 
     
+    
 public class UserRecord {
 
     @Id
@@ -34,9 +35,15 @@ public class UserRecord {
         return id;
     }
 
+
+
+    
     public String getName() {
         return name;
     }
+
+
+    
 
     public float getBalance() {
         return balance;
