@@ -1,10 +1,7 @@
 package com.jpmc.midascore.entity;
-
 import jakarta.persistence.*;
-
 @Entity
-
-    
+ 
     
 public class UserRecord {
 
@@ -35,20 +32,15 @@ public class UserRecord {
         return id;
     }
 
-
-
     
     public String getName() {
         return name;
     }
-
-
-    
+ 
 
     public float getBalance() {
         return balance;
     }
-
     public void setBalance(float balance) {
         this.balance = balance;
     }
